@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.Bright{
+  background-color: white;
+  
+}
+.Dark{
+  background-color: black;
+  color: white;
+}
+
