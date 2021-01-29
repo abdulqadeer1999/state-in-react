@@ -11,8 +11,8 @@ function Room() {
    }
 
   return (
-    <div>
-      <div>The room is{(value === true) ? "Bright" : "Dark"}    </div>
+    <div id = {"btn"} className= {(value === true)? "Bright" :"Dark"}>
+      <div className= {"text"}>The room is{(value === true) ? "Bright"  : "Dark"}    </div>
      
       <button onClick={Click}> Change </button>
     </div>
