@@ -2,7 +2,7 @@
   "name": "second",
   "version": "0.1.0",
   "private": true,
-  "homeppage" :"https://abdulqadeer1999/state-in-react", 
+  "homeppage" :"https://abdulqadeer1999.github.io/state-in-react", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
